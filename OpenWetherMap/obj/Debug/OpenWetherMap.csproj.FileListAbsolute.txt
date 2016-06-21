@@ -1,0 +1,7 @@
+F:\Manu\OpenWetherMap\OpenWeatherMap_New\OpenWetherMap\OpenWetherMap\bin\OpenWetherMap.dll
+F:\Manu\OpenWetherMap\OpenWeatherMap_New\OpenWetherMap\OpenWetherMap\bin\OpenWetherMap.pdb
+F:\Manu\OpenWetherMap\OpenWeatherMap_New\OpenWetherMap\OpenWetherMap\obj\Debug\OpenWetherMap.csprojResolveAssemblyReference.cache
+F:\Manu\OpenWetherMap\OpenWeatherMap_New\OpenWetherMap\OpenWetherMap\obj\Debug\OpenWetherMap.dll
+F:\Manu\OpenWetherMap\OpenWeatherMap_New\OpenWetherMap\OpenWetherMap\obj\Debug\OpenWetherMap.pdb
+F:\Manu\OpenWetherMap\OpenWeatherMap_New\OpenWetherMap\OpenWetherMap\bin\Newtonsoft.Json.dll
+F:\Manu\OpenWetherMap\OpenWeatherMap_New\OpenWetherMap\OpenWetherMap\bin\Newtonsoft.Json.xml
