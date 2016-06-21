@@ -49,7 +49,7 @@ namespace OpenWetherMap
                     GridViewRow row = (GridViewRow)((LinkButton)(e.CommandSource)).NamingContainer;
                     Label lblCapitalCity = (Label)gvECapCities.Rows[row.RowIndex].FindControl("lblCapitalCity");
 
-                    HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://api.openweathermap.org/data/2.5/weather?q=" + lblCapitalCity.Text + "&APPID=74d516f151e31e0ea45dc0d4ca99e055");
+                    HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://api.openweathermap.org/data/2.5/weather?q=" + lblCapitalCity.Text + "&APPID=4e4b48f9c831fcdb7d54ea4b052ffb62");
 
                     //using (StreamReader r = new StreamReader(""))
                     //{
